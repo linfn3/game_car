@@ -1,0 +1,584 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1672719816352415, "dur":2860, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816355289, "dur":117, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1672719816355446, "dur":29, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1672719816355476, "dur":611, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1672719816356119, "dur":746, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816356866, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693296, "dur":223, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693519, "dur":102, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693621, "dur":66, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693687, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693703, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693706, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693714, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693715, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693720, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693722, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693726, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693727, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693733, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693734, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693739, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693740, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693746, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693747, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693753, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693754, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693760, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693762, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693767, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693768, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693775, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693776, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693780, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693782, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693787, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693788, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693793, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693795, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693801, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693816, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816693847, "dur":2946, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1672719816356472, "dur":401, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816356876, "dur":18931, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816375828, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672719816375832, "dur":511, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816376353, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672719816376361, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816383543, "dur":5605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1672719816389152, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1672719816389553, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816389905, "dur":6441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1672719816397416, "dur":3246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816400667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816403138, "dur":24505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816428117, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816428463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816428475, "dur":27272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816456057, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816456422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816456433, "dur":18080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816474852, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816475170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816475179, "dur":20080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816495534, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816495782, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816495790, "dur":18143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816514172, "dur":2383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816516560, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816516572, "dur":17098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816533916, "dur":2131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816536052, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816536064, "dur":18721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816555100, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816555381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816555388, "dur":9713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1672719816565489, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1672719816565749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1672719816565756, "dur":12947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level3.resS" }}
+,{ "pid":12345, "tid":1, "ts":1672719816579483, "dur":113810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816356739, "dur":174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816356913, "dur":18902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816375829, "dur":780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1672719816376617, "dur":20, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816389411, "dur":7497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1672719816397336, "dur":2070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816399410, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816403095, "dur":25167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816428620, "dur":641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816429266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816429280, "dur":27217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816456957, "dur":545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816457508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816457519, "dur":17695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816475465, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816475714, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816475751, "dur":20097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816497302, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816497612, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816497624, "dur":18983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816517070, "dur":537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816517612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816517620, "dur":20899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816538970, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816539329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816539339, "dur":16229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816555853, "dur":689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816556547, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816556554, "dur":9074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1672719816565974, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1672719816566310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1672719816566319, "dur":21750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level3" }}
+,{ "pid":12345, "tid":2, "ts":1672719816588372, "dur":104920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816356549, "dur":332, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816356881, "dur":18928, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816375830, "dur":968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1672719816376802, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816392736, "dur":4402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1672719816397514, "dur":2824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816400343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816403380, "dur":30291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816434010, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816434365, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816434377, "dur":22949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816457871, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816458206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816458215, "dur":20666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816479486, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816479934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816479945, "dur":20719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816501056, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816501463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816501473, "dur":20738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816522557, "dur":1214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816523777, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816523788, "dur":20706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816545354, "dur":745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816546103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816546111, "dur":15350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1672719816561797, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":3, "ts":1672719816562141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816562149, "dur":15078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":3, "ts":1672719816578106, "dur":555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1672719816578667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1672719816578680, "dur":9716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1672719816588667, "dur":104661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816356622, "dur":272, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816356894, "dur":18931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816375826, "dur":840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1672719816376670, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816389307, "dur":6612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1672719816396255, "dur":496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816396756, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816396763, "dur":52238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816449311, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816449615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816449736, "dur":20062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816470074, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816470361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816470372, "dur":20672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816491371, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816491644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816491654, "dur":20258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816512348, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816513443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816513454, "dur":18319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816532023, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816532301, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816532308, "dur":19491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816552051, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816552342, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816552349, "dur":12116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1672719816564854, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1672719816565323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1672719816565332, "dur":21890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1672719816587687, "dur":105600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816356703, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816356908, "dur":18905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816375827, "dur":755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1672719816376586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816389435, "dur":6563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1672719816396373, "dur":553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1672719816396930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816396938, "dur":22216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1672719816419424, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816419673, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816419684, "dur":23194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816443302, "dur":429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816443737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816443753, "dur":21139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816465212, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816465447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816465455, "dur":20502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816486206, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816486527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816486535, "dur":21424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816508217, "dur":699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816508920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816508928, "dur":18833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816528205, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816528438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816528446, "dur":19695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816548511, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816548790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816548798, "dur":14566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1672719816563771, "dur":946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1672719816564722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816564732, "dur":12510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1672719816578141, "dur":926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1672719816579078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1672719816579088, "dur":9393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1672719816588957, "dur":104333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816356670, "dur":229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816356900, "dur":18922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816375829, "dur":509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1672719816376350, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816388670, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1672719816392773, "dur":409, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1672719816393186, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816393196, "dur":8293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1672719816402321, "dur":376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816402702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816403373, "dur":29338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816433082, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816433394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816433408, "dur":23165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816457044, "dur":697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816457747, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816457760, "dur":19850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816477955, "dur":592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816478554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816478595, "dur":20595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816499551, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816499880, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816499891, "dur":20449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816520686, "dur":815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816521515, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816521529, "dur":19709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816541579, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816541852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816541860, "dur":16055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1672719816558182, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1672719816558417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816558735, "dur":3749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1672719816562839, "dur":477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1672719816563322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1672719816563332, "dur":129778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1672719816693260, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1672719816693262, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816356811, "dur":108, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816356919, "dur":18893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816375826, "dur":552, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1672719816376383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816389721, "dur":4520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1672719816394778, "dur":356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816395139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816396265, "dur":12900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816409552, "dur":1102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816410663, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816410679, "dur":26880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816437899, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816438223, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816438234, "dur":23523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816462522, "dur":459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816462985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816462995, "dur":20661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816483912, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816484172, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816484179, "dur":19733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816504250, "dur":1378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816505633, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816505643, "dur":19310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816525227, "dur":666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816525897, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816525905, "dur":19139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816545898, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816546405, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816546413, "dur":16289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1672719816563112, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1672719816563549, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816563559, "dur":12581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1672719816576686, "dur":568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1672719816577259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1672719816577268, "dur":10411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1672719816588043, "dur":105242, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816356890, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816356891, "dur":18932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816375829, "dur":911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1672719816376743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816389594, "dur":5964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1672719816395976, "dur":397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816396377, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816396790, "dur":41717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816438739, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816438979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816438987, "dur":22836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816462563, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816463028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816463037, "dur":20351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816483755, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816484109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816484119, "dur":20050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816504608, "dur":1674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816506287, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816506297, "dur":20600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816527162, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816527768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816527778, "dur":20295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816548461, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816548750, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816548792, "dur":14395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1672719816563587, "dur":1053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1672719816564645, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816564656, "dur":12841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1672719816578177, "dur":907, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1672719816579089, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1672719816579100, "dur":9398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1672719816588976, "dur":104341, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816356937, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816356938, "dur":18889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816375827, "dur":1007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1672719816376838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816395607, "dur":8301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1672719816404116, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816404319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816404936, "dur":30075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816436026, "dur":1702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816437733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816437742, "dur":23859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816462457, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816462949, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816462957, "dur":19505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816482769, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816483013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816483023, "dur":20861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816504240, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816505182, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816505192, "dur":19285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816524728, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816525472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816525480, "dur":19462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816545780, "dur":607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816546392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816546403, "dur":15363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1672719816562126, "dur":318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1672719816562448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1672719816562455, "dur":72353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1672719816635024, "dur":58283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816357049, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816357049, "dur":18768, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816375829, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1672719816376659, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816389662, "dur":7731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1672719816399564, "dur":905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816400474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816403443, "dur":31047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816435216, "dur":1024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIWidgetsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816436246, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816436259, "dur":22186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIWidgetsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816458705, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816458960, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816458968, "dur":19785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816479441, "dur":448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816479894, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816479903, "dur":20174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816500433, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816500886, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816500896, "dur":20685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816521986, "dur":1359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816523350, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816523361, "dur":20615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816544424, "dur":799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816545229, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816545240, "dur":14987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1672719816560499, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1672719816560791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1672719816560801, "dur":102334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1672719816663437, "dur":29861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816357114, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816357115, "dur":18732, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816375847, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1672719816376360, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816386841, "dur":3276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1672719816390464, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1672719816390934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816390944, "dur":5397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1672719816396786, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816397190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816403505, "dur":31039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816435473, "dur":1438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816436917, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816436928, "dur":23179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816460466, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816460812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816460823, "dur":20697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816481736, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816481949, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816481957, "dur":19784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816501996, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816502258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816502265, "dur":20237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816523254, "dur":890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816524149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816524159, "dur":20491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816545502, "dur":756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816546262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816546269, "dur":16507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1672719816563292, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1672719816563908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816563918, "dur":13247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1672719816578124, "dur":1339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1672719816579468, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1672719816579478, "dur":9437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1672719816589408, "dur":103914, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816357247, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816357247, "dur":18573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816375830, "dur":816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1672719816376651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816389717, "dur":7602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1672719816400290, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816400644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816402470, "dur":22388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816425173, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816425463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816425473, "dur":28989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816455904, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816456341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816456351, "dur":14888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816471478, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816471733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816471741, "dur":22390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816494684, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816494928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816494937, "dur":17850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816513070, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816513577, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816513585, "dur":16942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816530744, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816530974, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816530983, "dur":20212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816551445, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816551654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816551662, "dur":12498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1672719816564483, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1672719816564836, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1672719816564843, "dur":87048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1672719816652091, "dur":41205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816357215, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816357216, "dur":18632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816375848, "dur":976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1672719816376829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816394149, "dur":8880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1672719816403364, "dur":370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816403739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816404500, "dur":30067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816435585, "dur":749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816436339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816436385, "dur":22955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816459639, "dur":445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816460090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816460101, "dur":19775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816480263, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816480540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816480548, "dur":19826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816500829, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816501194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816501204, "dur":20695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816522298, "dur":1190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816523493, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816523504, "dur":20909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816545171, "dur":772, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816545948, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816545959, "dur":14445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1672719816560777, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":13, "ts":1672719816561056, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816561063, "dur":14953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":13, "ts":1672719816576722, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level1.resS" }}
+,{ "pid":12345, "tid":13, "ts":1672719816577230, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1672719816577242, "dur":9998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level1.resS" }}
+,{ "pid":12345, "tid":13, "ts":1672719816587637, "dur":105652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816357282, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816357283, "dur":18685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816375969, "dur":835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1672719816376807, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816392472, "dur":10283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1672719816403113, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816403621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816404473, "dur":30123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816435696, "dur":969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816436671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816436683, "dur":24445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816461572, "dur":959, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816462538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816462550, "dur":19676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816482572, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816482877, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816482885, "dur":20178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816503281, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816503493, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816503501, "dur":19308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816523326, "dur":832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816524193, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816524204, "dur":20428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816545449, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816546237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816546244, "dur":16526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1672719816563227, "dur":559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1672719816563790, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816563800, "dur":15036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1672719816579298, "dur":807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1672719816580110, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1672719816580120, "dur":8803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1672719816589415, "dur":103890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816357396, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816357396, "dur":18459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816375856, "dur":887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1672719816376748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816390362, "dur":5854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1672719816396577, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1672719816397005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816400895, "dur":29732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1672719816432829, "dur":701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816433536, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816433549, "dur":23038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816457076, "dur":658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816457738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816457749, "dur":20501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816478716, "dur":841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816479588, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816479599, "dur":20400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816500406, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816500885, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816500896, "dur":19815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816521116, "dur":732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816521852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816521862, "dur":18997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816541159, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816541475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816541483, "dur":15867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":15, "ts":1672719816557663, "dur":604, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1672719816558296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816559171, "dur":3335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":15, "ts":1672719816562888, "dur":457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672719816563350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816563360, "dur":13367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1672719816577793, "dur":585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level1" }}
+,{ "pid":12345, "tid":15, "ts":1672719816578384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1672719816578393, "dur":10079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level1" }}
+,{ "pid":12345, "tid":15, "ts":1672719816588953, "dur":104347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816357316, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816357317, "dur":18524, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816375842, "dur":515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1672719816376362, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816389224, "dur":6856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1672719816396444, "dur":3982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON.exe" }}
+,{ "pid":12345, "tid":16, "ts":1672719816400430, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816400437, "dur":12516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON.exe" }}
+,{ "pid":12345, "tid":16, "ts":1672719816413228, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816413470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816413480, "dur":26445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816440283, "dur":308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816440597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816440606, "dur":23157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816464038, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816464267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816464274, "dur":20081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816484696, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816484977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816484988, "dur":20891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816506209, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816506512, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816506521, "dur":20584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816527697, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816528204, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816528214, "dur":23972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816552556, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816552799, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816552806, "dur":14008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":16, "ts":1672719816567064, "dur":404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level2.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672719816567473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1672719816567482, "dur":12059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/laoBao/Desktop/CG/build/FORZA_HORIZON_Data/level2.resS" }}
+,{ "pid":12345, "tid":16, "ts":1672719816580046, "dur":113262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1672719816700812, "dur":2443, "ph":"X", "name": "ProfilerWriteOutput" }
+,
